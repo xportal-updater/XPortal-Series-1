@@ -21,7 +21,7 @@ The tournament will host the maximum number of 16 teams. Registration is open to
 
 Registration
 
-Teams must register via www.xpseries.com. A registration fee of €600 per team (covers 5 players + 1 coach) is required to confirm entry. Registration is first-come, first-served; once 16 teams register, sign-ups will close. Sign ups close automatically on March 5th, 23:59.
+Teams must register via www.xpseries.com. A registration fee of €600 per team (covers 5 players + 1 coach) is required to confirm entry. Registration is first-come, first-served and is open to all teams. Once 16 teams register, sign-ups will close. Sign ups close automatically on March 5th, 23:59.
 Prize Pool
 The prize pool is entirely crowdfunded by team entry fees and scales with the number of  registered teams
 16 Teams : 9,600€ total prize pool
@@ -37,11 +37,13 @@ Open to all teams in the Global region, as defined by Valve’s official rules a
 
 Sign-up Process
 
-Teams register on the official website (xpseries.com). Payment of 600€ (+VAT) per team (covers 5 players + 1 coach) secures the spot. Teams have 3 hours after registration to complete the registration fee. After payment, the team representative will receive the registration form via the official XPORTAL Series Discord server, which must be completed to confirm participation.
+Teams register on the official website (xpseries.com). Payment of 600€ (+VAT) per team (covers 5 players + 1 coach) secures the spot. Teams have 12 hours after registration to complete the registration fee. After payment, the team representative will receive the registration form via the official XPORTAL Series Discord server, which must be completed to confirm participation.
 
 Team and Roster Rules
 
-Teams may register up to 5 players and 1 coach. The roster is locked fourteen days before the event. Substitutions during the tournament are not allowed. All players must be present on-site; playing remotely is not permitted.
+Teams may register up to 5 players and 1 coach. The roster is locked fourteen days before the event. Substitutions during the tournament are not allowed. All players must be present on-site, playing remotely is not permitted. After this date teams must retain their registered core (3 out of the 5 initially registered players).
+
+
 
 
 VRS Seeding
