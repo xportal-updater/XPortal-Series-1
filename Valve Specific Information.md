@@ -2,9 +2,9 @@
 
 ### Additional Information:
 - ﻿No VRS filter and no VRS invitations. Sign-ups are open to all teams.
-﻿- Seeding will be based on the official VRS Rankings released by Valve in March.
-﻿- The event is open to teams from the Global Region, as defined in Valve's official rules & regulations.
-﻿- The entire tournament, including both the Group Stage and the Single Elimination Playoff, will be played on LAN at Tech Park, Prishtina.
+- Seeding will be based on the official VRS Rankings released by Valve in March.
+- The event is open to teams from the Global Region, as defined in Valve's official rules & regulations.
+- The entire tournament, including both the Group Stage and the Single Elimination Playoff, will be played on LAN at Tech Park, Prishtina.
 - The Organizer will provide transportation only between hotel or meeting points and the event venue (Hotel–Venue–Hotel).
 - There are no additional compensations for teams or players outside of the prize pool and the form of transport mentioned above.
 - Our event aligns with Valve's Ranked Tier 2 requirements.
