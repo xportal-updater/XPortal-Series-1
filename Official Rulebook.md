@@ -295,17 +295,18 @@ Newly Discovered Bugs: If a critical bug is discovered during the event (for ins
 ### Player Equipment and Setup
 
 Provided Equipment: The venue will provide high-performance gaming setups for all matches. Each station includes a gaming PC.
-AMD Ryzen 7 9800x3d,
-32 GB DDR5 RAM,
-NVIDIA GeForce RTX 5070 GPU,
-Monitor Alienware 500hz,
-12 AceZone Headsets for Stream A,
-12 HyperX Cloud II for Stream B,
-4 Dell Standard Laptops for Coaches,
-12 Titan Gaming Chairs for Stream A,
-12 SENSE7 Sentinel Gaming Chairs for Stream B,
-Non-Adjustable Standard Gaming Desks.
-All systems will come with CS2 pre-installed, along with necessary drivers and software.
+- AMD Ryzen 7 9800x3d,
+- 32 GB DDR5 RAM,
+- NVIDIA GeForce RTX 5070 GPU,
+- Monitor Alienware 500hz,
+- 12 AceZone Headsets for Stream A,
+- 12 HyperX Cloud II for Stream B,
+- 4 Dell Standard Laptops for Coaches,
+- 12 Titan Gaming Chairs for Stream A,
+- 12 SENSE7 Sentinel Gaming Chairs for Stream B,
+- Non-Adjustable Standard Gaming Desks.
+- All systems will come with CS2 pre-installed, along with necessary drivers and software.
+
 Player-Provided Gear: Players must bring their own peripherals: this includes mouse, keyboard, mousepad and in-ear earphones. Bringing your own gear ensures comfort and familiarity.
 
 ### Setup Time
