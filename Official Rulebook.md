@@ -1,0 +1,423 @@
+# XPORTAL Series #1 Tournament Regulations
+
+The XPORTAL Series tournament is organized by XPortal Esports (GG Esports), a Kosovan company with Unique Registration Code (CUI) RKS 810874281. The company is legally represented by Besnik Thaqi, who serves as its CEO.
+
+XPortal Series is a Tier 2 Valve Regional Standings (VRS) Ranked Counter-Strike 2 tournament with an open LAN format. This event provides a welcoming competitive experience in the heart of Prishtina, welcoming any team ready to compete. As a VRS-ranked event, XPortal adheres to Valve’s rules for ranked tournaments, ensuring a fair structure for invites and qualifiers. The Valve Regional Standings (VRS) is the official ranking system used by Valve to gauge team performance and determine invitations for CS2 events. This rulebook outlines all regulations, format details, and expectations for teams participating in XPortal Series.
+
+---
+
+## Event Overview
+**Event Name:** XPORTAL Series #1 – Counter-Strike 2 Open LAN
+**Time Zone:** All timezones specified in this rulebook are in Prishtina local time (GMT+1).
+
+**Tier & Sanctioning:** Tier 2 VRS-ranked event (results will count toward Valve’s regional standings)
+
+**Dates:** March 21–25, 2025 (Saturday to Wednesday)
+- March 21 (Saturday) - Media and SSD Day
+- March 22 to 25 (Sunday to Wednesday) Tournament Days
+
+**Location:** TechPark Prishtina, Prishtinë, Kosovo
+
+### Number of Teams
+The tournament will host the maximum number of 16 teams. Registration is open to any team (first-come, first-served). Each team consists of 5 players, with the option to have 1 coach. All participants must be able to attend on-site.
+
+---
+
+## Registration
+Teams must register via www.xpseries.com. A registration fee of €600 +VAT per team (covers 5 players + 1 coach) is required to confirm entry. Registration is first-come, first-served and is open to all teams. Once 16 teams register, sign-ups will close. Sign ups close automatically on March 1st, 23:59.
+
+### Prize Pool
+The prize pool is entirely crowdfunded by team entry fees and scales with the number of registered teams
+16 Teams : 9,600€ total prize pool
+Prize pool amounts are calculated based on registration fees paid by participating teams.
+100% of all registration fees contribute to the prize pool.
+
+---
+
+## Registration & Eligibility
+
+Open to all teams in the Global region, as defined by Valve’s official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid CS2 accounts in good standing (no VAC bans). Players should be at least 16 years old (players under 18 may require parental consent per local regulations).
+
+### Sign-up Process
+
+Teams register on the official website (xpseries.com). Payment of 600€ (+VAT) per team (covers 5 players + 1 coach) secures the spot. Teams have 12 hours after registration to complete the registration fee. After payment, the team representative will receive the registration form via the official XPORTAL Series Discord (https://discord.gg/eaxPy5B2uy) server, which must be completed to confirm participation.
+
+### Team and Roster Rules
+
+Teams may register up to 5 players and 1 coach. The roster is locked fourteen days before the event. Substitutions during the tournament are not allowed. All players must be present on-site, playing remotely is not permitted. After this date teams must retain their registered core (3 out of the 5 initially registered players).
+No sibling/academy teams owned by the same organization in the same tournament.
+---
+
+## VRS Seeding
+
+- In line with Valve’s guidelines for Tier 2 events, XPORTAL Series #1 will use VRS rankings to seed teams into the Group Stage. Once registration closes (approximately two weeks before the event). Seeding will be based on the official VRS Rankings released by Valve in March 2026.
+- For teams that do not possess a VRS ranking from March 2, 2026, the secondary seeding criterion will be their official HLTV.org world ranking.
+- The seeding shall be based on the official VRS ranking released by Valve in March, 2026. The registered teams will begin in the Open LAN Group Stage on Day 1 (22 March)  to earn their place in the Play-offs.
+
+### Check-in
+
+Teams must check in at the venue on Day 1 by the designated time (exact schedule to be provided and available on the official XPORTAL Series discord). All team members should be on-site and ready at least one hour before their first match. Any team that fails to check in on time may be disqualified.
+
+### On-site Conduct
+
+By registering, teams agree to abide by all venue rules and tournament policies. Players are expected to maintain respect towards staff, opponents, and the facility. Any team unable to attend must notify the organizers as soon as possible (no later than 14 days before the event); registration fees are non-refundable for no-shows or late withdrawals. If a team withdraws within 14 days of the event or after the event has started, they will automatically forfeit their spot and all scheduled matches. All such matches will be considered losses in the tournament structure.
+
+---
+
+## Tournament Structure
+
+- The first stage will consist of four groups of four teams, where the top two teams from each group advance to the playoffs. This stage will follow a Round Robin BO1 format, with all matches to be played as a best-of-one (BO1). All group stage matches will be played on 22nd of March.
+- The playoffs will be played in a double-elimination bracket with 8 teams, in BO3. On 23rd, 24th and 25th March, the quarterfinals, semifinals and grand final will be played.
+- The playing location of each team will be defined through a draw.
+
+Example: Group A
+Team A: Booth 1
+Team B: Booth 2
+Team C: Booth 1
+Team D: Booth 2
+
+### Equipment
+
+Each player must bring their own peripherals (keyboard, mouse, mousepad and in-ears).
+If any player does not have all their equipment and cannot find a solution in time (within 15 minutes from the scheduled match time), the equipment that the player is missing will be provided by the tournament officials.
+
+### Tournament Format
+
+The tournament will feature two stages: group stage (Round Robin BO1) and playoffs, both played offline (on LAN).
+
+
+### Group Stage (Day 1–2)
+
+- If 16 teams participate in the group stage.
+- Teams are divided into 4 groups of 4, using a seeded draw system. Seeding is based on a four-pot allocation (pot allocation is based on organizer evaluation (VRS rank, HLTV rank, competitive results)
+-- Pot 1: Top 4 teams.
+-- Pot 2: Next 4 teams.
+-- Pot 3: Following 4 teams.
+-- Pot 4: Remaining 4 teams.
+- Each group will contain exactly one team from each pot. The live draw will be held on March 2, 2026, and broadcast on the official XPortal Esports twitch.tv channel - https://www.twitch.tv/xportalesports/
+
+### Group Format (Round Robin BO1)
+
+All Matches: Best-of-1
+
+### Group Standings are Determined by
+
+- Points win=3, loss=0
+- Head-to-head wins
+- Round difference
+- Fewest total rounds lost
+- Seed
+
+### Coverage
+
+Coverage on HLTV.org toward VRS and ranking status from what stage of the tournament cannot be guaranteed prior to confirmation.
+
+### Match Rules
+
+Overtime is enabled for all matches; draws are not possible.
+If a Best-of-1 map ends 12–12, overtime will be played using MR3 with $10,000 start money until a winner is determined.
+Best-of-3 series follow the same overtime rules.
+Half-time breaks shall be 2 minutes.
+
+### Advancement
+
+The group winner and runner-up from each group advance to the Playoffs, making a total of 8 advancing teams.
+
+### Group Stage Schedule (Day 1 and Day 2)
+
+Group stage matches will be conducted in two different booths with the same setups to ensure all matches can be completed within Day 1 (Group A, B, C and D)
+Teams must be ready on the server at least 15 minutes before the scheduled start time.
+Short breaks (10 minutes) will be provided between back-to-back matches, but teams must be prepared for quick transitions, especially in Decider Matches.
+The Group Stage is expected to conclude by the evening of Day 1, after which advancing teams will be briefed for the Playoffs.
+
+### Playoffs (Day 2, 3 and Day 4)
+
+8 teams advancing from the Group Stage (winners + runners-up).
+
+### Bracket Format
+
+Double-Elimination Bracket
+Teams are eliminated only after two matches lost.
+All matches are Best-of-3, including the Grand Final.
+
+### Seeding
+
+The 8 advancing teams from the Group Stage will be matched against each other as follows:
+- Match 1: Group A Winner vs Group D Runner-up
+- Match 2: Group C Winner vs Group B Runner-up
+- Match 3: Group D Winner vs Group A Runner-up
+- Match 4: Group B Winner vs Group C Runner-up
+
+### Match Rules
+
+Standard CS2 competitive settings will apply.
+All Best-of-3 series use the MR12 format, with overtime (MR3, $10,000 start money) if required.
+Forfeits will be handled under the Conduct & Admin Policies section of this rulebook.
+Half-time break shall be 2 minutes.
+
+---
+
+## Match Scheduling and Punctuality
+
+A detailed match schedule (with approximate start times for each round) will be provided to teams. All teams are expected to follow the schedule closely. Matches will start as stated on the schedule; any changes must be approved by tournament admins.
+Teams should be ready 15 minutes before the scheduled start of their match, with all players present and equipment set up. Being “ready” means all five players are in the game server (or at the designated staging area) and prepared to begin.
+If a team is not fully present and ready by the match start time, the admins may grant a short grace period (up to 10 minutes). After that, the team may forfeit the first map or the entire match at the admin’s discretion. A no-show (failure to appear) will result in a match loss by forfeit.
+To keep the tournament on track, minimal downtime is enforced: Teams will have 10 minutes breaks  between maps in a Bo3, and 10 minutes breaks between consecutive matches. If a prior match runs long, subsequent matches may have reduced break times. Teams should request permission before leaving the tournament area if they have back-to-back matches, in case schedule adjustments are needed.
+
+### Game Rules & Match Settings
+
+Game Version: Counter-Strike 2 (latest updated version on Steam by March 18) will be used for all matches but can change if Counter-Strike 2 launches an update during the tournament.
+All matches are played on LAN servers provided by the tournament. The servers will be configured with standard competitive settings. No third-party anti-cheat client is required, but tournament admins will actively monitor for any suspicious activity.
+Players must log in with their own Steam/CS2 accounts. Account sharing is not permitted. Each account must own CS2 and not carry any VAC or competitive bans.
+All matches will be played using the official CS2 competitive configuration. Tournament servers will be hosted on LAN and configured by the admin team.
+
+### Match Settings
+
+Match Format: MR24 – First team to win 13 rounds takes the map. A maximum of 24 rounds in regulation (12 per half). 
+Round Time: 1 minute 55 seconds
+Bomb Timer: 40 seconds
+Freeze Time: 20 seconds
+Buy Time: 30 seconds
+Start Money: $800 on pistol round
+
+If the score is 12–12 after regulation, overtime will be played.
+Overtime Format is MR3 – Each team plays 3 rounds per side.
+Start Money in Overtime: $10,000
+Teams swap sides after 3 rounds.
+If still tied after one overtime, additional OT periods are played until a winner is determined.
+
+### Side Selection
+
+First Map of Match: Winner of cointoss decides either (a) map veto order or (b) starting side.
+Subsequent Maps in Bo3: Side selection follows the veto process (the team that didn’t pick the map chooses the starting side).
+Overtime: Teams continue on the side they ended regulation, then switch after 3 OT rounds.
+
+### Map Pool
+
+The tournament will use the official Active Duty map pool as of Summer 2025. The map pool consists of 7 maps:
+
+- Dust2
+- Mirage
+- Inferno
+- Nuke
+- Overpass
+- Ancient
+- Anubis
+
+### Side and Map Selection (Veto Process)
+
+All matches use a veto/pick system to determine maps and starting sides. The process follows Valve’s Major rulebook standards, with seeding determination adjusted for this event.
+
+### Seeding Determination
+
+In the Group Stage and in the Playoffs the higher seed will be determined by coin toss.
+
+### Best-of-1 (Bo1) Pick/Ban Process
+
+The higher seed chooses to be Team A or Team B.
+- Team A removes 1 map,
+- Team B removes 1 map,
+- Team A removes 1 map,
+- Team B removes 1 map
+- Team A removes 1 map,
+- Team B removes 1 map,
+
+The remaining map is played.
+Starting sides for all Bo1 matches are determined by a knife round.
+
+### Best-of-3 (Bo3) Pick/Ban Process
+
+The higher seed chooses to be Team A or Team B.
+- Team A removes 1 map.
+- Team B removes 1 map.
+- Team A picks Map 1.
+- Team B chooses the starting side on Map 1.
+- Team B picks Map 2.
+- Team A chooses the starting side on Map 2.
+- Team B removes 1 map.
+- Team A removes 1 map.
+
+The remaining map becomes Map 3 (decider).
+Knife round will determine the starting sides on Map 3.
+
+### Administration
+
+The veto process will be supervised by a tournament admin. It may be conducted on stage, through the server, or via an online veto tool. Teams must make their ban/pick decisions promptly; a time limit of 1–2 minutes per decision may be enforced.
+
+### Overtime
+
+Overtime: If a map is tied 12-12 at the end of regulation, overtime will be played to determine a winner. Overtime settings: MR3, $10,000 starting money (each team plays up to 3 rounds on each side in OT, with 10k money; if still tied after one OT, it repeats). Specifically, the server will be configured for 6 maximum overtime rounds (3 per half) and $10,000 for each OT half. Teams will not switch sides from the end of regulation for the start of overtime (they continue on the side they finished on, then swap after 3 OT rounds). Overtime repeats until a winner is decided (one team wins more rounds in an OT series). 
+Note: In the group stage, overtime will also be used to ensure a decisive result since only one team advances per match (no draws).
+
+### Match Server and Config
+
+Matches will be hosted on provided tournament servers with a standard config. Teams will have a brief window to set up their personal configurations (exec configs, adjust settings) before live play. It is each team’s responsibility to verify their game settings and equipment on the server before the match goes live. Once both teams signal readiness, the match will start. If a team fails to raise any config/setting issue before the first round goes live, the match will proceed under the assumption that all is in order.
+
+### Pauses and Timeout Rules
+
+Tactical Pauses (Timeouts): Each team is allowed up to 3 tactical timeouts per map (with 1 additional timeout in Overtime), each lasting 30 seconds. These pauses are to be used for team discussion/strategy. Teams may use the in-game timeout command (Call Tactical Timeout via the menu) to initiate these. You may use multiple timeouts in a row if needed (e.g., using two back-to-back to have a 1-minute pause). Once a team has exhausted its 3 timeouts in a map, no further tactical pauses are allowed for that map.
+Technical Pauses: If a player experiences a technical issue (e.g., hardware malfunction, disconnect, server lag), they should immediately type “!tech” in chat and pause the game (if possible). Players must not abuse the pause function; only legitimate technical issues warrant a pause. During a technical pause, players, coaches, and team staff must remain at their positions and may not discuss any game-related topics. The coach is not permitted to speak during a technical pause.
+Tactical timeouts are fixed at 30 seconds (unless sequentially called). Technical pauses will last only as long as necessary to resolve the issue. If a team cannot fix a problem within a reasonable time (generally 10 minutes maximum), the admins may force the match to continue or, in extreme cases, issue a forfeit if the team cannot continue playing. Teams should have any backup equipment ready to swap in quickly to avoid long delays.
+
+### Admin Pauses
+
+Tournament administrators can pause a match at any time from the server side if an issue is observed. Admin pauses can be used to resolve disputes, fix server problems, or handle audience interference, etc. Players must remain ready during admin pauses and follow any instructions given. During an admin pause, players, coaches, and team staff must remain at their positions and may not discuss any game-related topics. The coach is not permitted to speak during a technical pause.
+
+---
+
+## Match Interruptions & Recovery
+
+We aim for smooth matches, but in case of interruptions (server crash, power outage, network issues, etc.), the following rules apply to maintain competitive integrity:
+Server Crash / All Players Drop: If the server crashes or all players disconnect simultaneously, the round in progress is nullified and will be replayed (started at the same score as before the round). The server will be restarted if needed, and an admin will use CS2’s match recovery tools (if available) to restore the match to the last completed round. Managers, coaches, or team staff are not permitted to intervene with players during this process, including the use of phones, streams, or external information to recreate the round state. Any violation of this rule may result in round forfeits, map forfeits, or disqualification at the discretion of the tournament administration.
+Player Disconnects: If a single player disconnects or has a hardware failure, the team can request a technical pause (as above). If the disconnect occurs very early in a round (within the first moments and before any significant action), an admin may decide to restart that round once the player reconnects. “Before any significant action” is defined as no damage dealt, no kills, and no engagement that reveals strategic information.
+If the round was already underway (if any significant action occurred before the pause), the round usually continues with the remaining 4 players. “Significant action” includes damage, kills, or clear strategic information being revealed (e.g., utility usage, map control gained). 
+The disconnected player may rejoin as soon as possible, but the round will not be replayed if such action occurred.
+If multiple players on a team disconnect or a major problem occurs mid-round such that the outcome of the round is heavily impacted or unclear, admins reserve the right to replay the round. For example, if a bomb plant situation was ongoing and the server lagged out, that round might be restored or replayed depending on the situation.
+If a technical issue is identified after a round is completed (e.g., a player was lagging but did not disconnect), the round result stands unless the admins determine the issue severely affected fairness.
+
+### Match Medics
+
+CS2’s competitive mode includes a match restore (match medic) feature. Admins will use match-medic whenever possible to load the game state (score, economy, player positions if available) to what it was before the interruption. If match-medic fails or is not possible for the exact state, the admin may restore the round score only and have teams play a normal start for the next round. In extreme cases, a whole map restart could be considered, but only if a significant portion of the map was impacted and both teams agree or rule it necessary.
+No Replay for Misbuys/Team Error: If a round is disrupted due to a team’s own error (e.g., a player accidentally buys the wrong weapon or disconnects due to alt-tabbing), the round will not be restarted. The game continues, and the mistake stands – admins will not consider this a valid reason to rewind a round.
+
+### Forbidden Exploits
+
+The intentional use of any game-breaking bugs, glitches, or exploits is strictly prohibited. This includes, but is not limited to:
+Using any clipping bug to see or move through walls, floors, ceilings or otherwise unintended areas of the map (places players are not supposed to reach).
+Pixel walking (standing on invisible map edges or pixels that allow hovering or an unintended vantage point) is forbidden.
+Any boosts or stacks that allow looking over or through solid areas of the map that designers did not intend to be peeked over. (Boosting on teammates is generally allowed as long as it doesn’t abuse a glitch—boosts that result in clipping your view through walls or skybox are illegal).
+Using scripts or macros to gain an unfair movement advantage (e.g., fast jump glitches beyond normal jumping techniques).
+Allowed Maneuvers: Some in-game quirks are allowed if they are considered part of normal gameplay. For example, standing on a teammate’s shoulders is allowed in general (except as noted above), and “surfing” on certain map elements is allowed if it doesn’t involve a glitch. Shooting through walls or objects as allowed by game physics (wallbangs) and defusing through smokes or thin walls (if the game permits it) are legal.
+Newly Discovered Bugs: If a critical bug is discovered during the event (for instance, a new one in a recent CS2 update), the admins will communicate a ruling on it. Teams are expected to check with admins if unsure about any trick or spot being legal. When in doubt, ask first! Using an exploit that is not explicitly listed but clearly goes against fair play or map design will still be penalized at the admins’ discretion.
+
+### Player Equipment and Setup
+
+Provided Equipment: The venue will provide high-performance gaming setups for all matches. Each station includes a gaming PC.
+AMD Ryzen 7 9800x3d,
+32 GB DDR5 RAM,
+NVIDIA GeForce RTX 5070 GPU,
+Monitor Alienware 500hz,
+12 AceZone Headsets for Stream A,
+12 HyperX Cloud II for Stream B,
+4 Dell Standard Laptops for Coaches,
+12 Titan Gaming Chairs for Stream A,
+12 SENSE7 Sentinel Gaming Chairs for Stream B,
+Non-Adjustable Standard Gaming Desks.
+All systems will come with CS2 pre-installed, along with necessary drivers and software.
+Player-Provided Gear: Players must bring their own peripherals: this includes mouse, keyboard, mousepad and in-ear earphones. Bringing your own gear ensures comfort and familiarity.
+
+### Setup Time
+
+At the start of each match (or when moving to a new station), teams will be given time to set up their gear, configure settings, and test the setup (typically ~5-10 minutes). This includes adjusting Windows settings, launching CS2 to set video and audio options, and executing config or buying binds. Teams are encouraged to set up quickly to stay on schedule.
+
+### Voice Communication
+
+A local TeamSpeak will be provided and hosted on the tournament network for teams to use. During matches, public internet access will be restricted, and all voice communication must take place through approved local software or in-game systems.
+
+### Network & Internet Access
+
+All tournament PCs will operate on a secure local network. Internet access will be restricted exclusively to services required for gameplay (e.g., Steam, CS2 servers). Players will have access to any other websites or tabs before the match start. After the match start attempting to interact with the browser or bypass network restrictions is strictly prohibited and will result in disciplinary action.
+
+### Coach Setup
+
+Coaches will be allowed to stand in a designated seating area. If voice chat is used, the coach can join the team’s channel. Note that by Valve’s competitive rules, coaches are only allowed to communicate during half time pauses and timeouts (not during live rounds). Coaches must remain silent during live gameplay, except in the allowed periods (tactical timeouts). Excessive mid-round coaching could lead to penalties.
+
+### Recording Devices
+
+Players are not allowed to have any recording or communication devices at the competition area (no cell phones, smart watches, etc., during an active match). These must be surrendered to team staff or left in a secure place during play. The only communication permitted is via the in-game or approved voice channel with teammates and coach.
+
+### Attire
+
+There is no strict uniform requirement for this event, but teams are encouraged to wear matching jerseys or apparel if available. Offensive or obscene clothing is not allowed.
+
+---
+
+## Conduct & Competition Integrity
+
+### Fair Play & Sportsmanship
+
+All participants are expected to compete with integrity and treat others with respect. 
+The following guidelines will be enforced:
+- No Cheating: Any form of cheating will result in immediate disqualification and potential bans. Cheating includes use of any external hacks, scripts, or modifications that give an unfair advantage (aimbot, wallhack, trigger bots, no-flash, radar hacks, etc.). The tournament will have admins observing matches and VAC-enabled servers to detect cheats. If a player is caught cheating, they will be banned from this event and potentially future events (a standard ban period is two years for serious offenses). Entire teams may be disqualified depending on the situation.
+- No Ghosting: Because this is an in-person LAN, ghosting (receiving outside information about the game in progress) is strictly prohibited. Spectators and eliminated players must not communicate with players in an ongoing match. Coaches are only permitted to communicate as allowed. Any attempt by an outside party to relay information to players will lead to ejection of that spectator and potential penalties for the team.
+- No Exploiting Game Bugs: As covered in Map Bugs and Glitches, deliberately abusing a known glitch or bug is considered cheating and will be penalized. Minor unintended behaviors will be judged by the admins and if we determine a team gained round-winning advantage from an exploit, the round (or match) may be forfeited to the opponent or rematched, and warnings or disqualifications issued as appropriate.
+- Forbidden Scripts/Configs: Players may only use config settings and binds that are allowed in competitive play. Simple jump-throw binds, buy binds, and standard alias commands are allowed. Illegal scripts (e.g., recoil scripts, rapid-fire macros, etc.) are forbidden. Any config file found to have forbidden commands (even if not used) can lead to a penalty, so players should double-check their configs. Software-based macros (through mouse/keyboard drivers) that replicate disallowed scripts are also banned.
+- In-Game Communication: Players should refrain from all chat during matches except for necessary communications (such as polite gl hf, or calling a technical timeout, etc.). Abuse of all-chat (especially to taunt or complain) can lead to penalties. Harassment, extreme profanity, or discriminatory language in chat or voice is not tolerated.
+- Player Behavior: Sportsmanlike conduct is expected at all times. This means no harassment, bullying, or unsportsmanlike behavior toward opponents, teammates, staff, or spectators. This includes insults, slurs, or any form of toxic behavior. Any incident of serious unsportsmanlike conduct (e.g. throwing equipment, using hate speech) may result in a round penalty, map forfeit, or disqualification depending on severity (and possibly removal from the venue). The tournament wants a friendly, respectful atmosphere, so celebrate victories humbly and accept losses gracefully.
+- Compliance with Officials: Teams must obey instructions from tournament admins and referees promptly. This includes pausing when told, restarting rounds when directed, or any administrative decisions. Arguing excessively with or disrespecting an official can itself result in penalties. If you have a disagreement or protest, captains should calmly raise it to admins at an appropriate time (not mid-round). The attempt to mislead or deceive admins with false information is considered misconduct and will be sanctioned.
+
+## Rule Enforcement & Penalties
+
+- Admin Decisions: The head admin has final say on all matters of rule enforcement, match results, and disputes. We will strive to be fair and consistent, referencing this rulebook. In unforeseen circumstances, admins will use their best judgment to uphold competitive integrity and sportsmanship. By participating, teams agree that the admins’ decisions are final.
+- Penalties: If a rule is broken, possible penalties include but are not limited to: warnings, loss of round, loss of map, score adjustments, forfeiture of a match, disqualification from the tournament, and/or future bans. The penalty will fit the offense. Minor first-time offenses might get a warning, while clear malicious cheating is an immediate disqualification and ban.
+- Technical Forfeits: A team may forfeit a map or match if they are unable or unwilling to continue, or if a serious rule violation forces a forfeit. For example, not having five players ready to play will be treated as a forfeit loss for that map/match. A forfeited map in a Bo3 is recorded as a 0-1 loss (or 0-2 if forfeiting an entire match). The opponent either gets a bye or a default win.
+- Protests: If a team believes a rule was violated by the opponent (e.g., exploit usage) or there was an unfair situation, they should notify an admin immediately, ideally by pausing the game or during half-time/end of map. Do not wait until after the match to raise an issue that was evident during play. The admins will review evidence (demos, logs) if needed and make a ruling. Note that judgment calls by referees (such as whether a bug had an impact) are not grounds for lengthy debate, and the admin decision is final after a protest.
+- Integrity of Results: All match results are considered official as reported by the server and admins. Any attempt to fake a match result, collude with another team to manipulate results, or intentionally lose (match-fixing) is strictly forbidden. Such behavior undermines the competition’s integrity and will result in immediate disqualification and potential reporting to Valve (which could carry severe competitive bans).
+- Betting: Players, coaches, and team staff are not allowed to bet on matches in this tournament. Any association with betting fraud or gambling on the outcome will lead to removal from the event.
+
+## Additional Provisions
+
+- Media & Streams: The event organizers may stream matches on an official channel and have casting talent on-site. Teams/players are not allowed to stream their POV or matches independently during the event unless explicitly allowed by the organizer. Participants may be asked to partake in media activities (interviews, photos), and refusal without good reason may be considered unsportsmanlike.
+- Photo/Video Release: By entering the event, players consent to being photographed or filmed by event staff or accredited media. The footage may be used in recaps, promotional materials, and social media. If any player has serious concerns (privacy or otherwise), please inform the admins in advance.
+- Health & Safety: This is a LAN environment in a public venue. Players should take care of their personal belongings; the organizer is not responsible for lost/stolen items (a secure storage area can be provided for teams upon request). Please respect venue property, as any damage caused by a player will be the team’s responsibility. Follow all safety rules (e.g., emergency exits, no smoking indoors). We encourage players to stay hydrated and get adequate rest.
+- Alcohol/Drugs: While competing, players are not allowed to consume alcohol. Any player appearing intoxicated may be reprimanded or removed by admins for their own safety and fair play. Absolutely no illegal drug use is permitted on the premises.
+
+---
+
+### Prize Distribution
+
+The XPORTAL Series #1 tournament prize pool is fully crowdfunded by team entry fees. A total of 16 teams have registered, each paying 600€ (+VAT).
+
+
+### Total Prize Pool: 9,600€
+*Prize Breakdown (%):*
+- 1st Place – 50% (€4,800)
+- 2nd Place – 25% (€2,400)
+- 3rd Place – 12.5% (€1,200)
+- 4th Place – 12.5% (€1,200)
+
+### Payment Details
+
+All prizes are paid in EUR (€). Teams will be paid via bank transfer within 90 days after the event (subject to required tax forms or invoice processing). The prize money is intended to be split among the five players (and coach, at the team’s discretion). It is the team’s responsibility to agree on any internal splits with coaches or organizations beforehand, as the organizers will send the full prize to the team’s designated payee (team captain or organization) and will consider the obligation fulfilled.
+Prize money will be awarded and disbursed in accordance with Kosovo law and will be subject to all applicable taxation as mandated by said law. The Organizer will process payments only after verifying the eligibility of the winning teams and collecting all necessary documentation, such as invoices, payment details, and identification documents. Any tax obligations arising from prize winnings are the responsibility of the recipients, in compliance with Kosovo legal requirements.
+If a team is disqualified or forfeits in the late stage, they may forfeit their claim to the prize at the organizer’s discretion (e.g., if a team is caught cheating, they will receive no prize even if they technically achieved a placement).
+
+### Refunds, Cancellations, Travel & Force Majeure
+
+Teams that withdraw after completing registration can be refunded upon reasonable request. Any refund in this case is subject to a €50 processing fee to cover administrative costs.
+Teams withdrawing within 14 days of the event (after Marxh 8, 2026) are not eligible for any refund, regardless of circumstance.
+In the unlikely event that XPORTAL is postponed or canceled due to unforeseen circumstances (including but not limited to natural disasters, venue failure, national emergencies, or health crises), the organizers will:
+Offer teams the option of a full refund, or
+Transfer the registration to the rescheduled date, if applicable.
+
+### Travel and Accommodation
+
+All travel arrangements, accommodation bookings, and related expenses are the sole responsibility of the participating teams. The Organizer will provide transportation only between  hotel or meeting points and the event venue (Hotel–Venue–Hotel). No other transportation, accommodation, meals, or personal expenses will be arranged or reimbursed.
+Teams are responsible for arriving at the venue on time for their scheduled matches and must ensure that all players are able to attend the event in person for the full duration of the tournament. The Organizer shall not be held responsible for any non-refundable travel or accommodation costs incurred by teams. We strongly recommend using flexible booking options whenever possible.
+Upon request, the XPortal team can suggest suitable booking options and provide guidance during the booking process.
+
+### Partial Refunds
+
+If the event must proceed with fewer than 8 teams, making a competitive bracket unfeasible, the organizers reserve the right to cancel or reformat the event and issue partial or full refunds accordingly.
+Refunds will not be issued due to individual team dissatisfaction with seeding, scheduling, or match outcomes.
+
+### Force Majeure Clause
+
+The organizers shall not be held liable for any failure or delay in performance of obligations under these rules if such failure or delay is caused by circumstances beyond reasonable control, including but not limited to: war, terrorism, riot, embargo, act of civil or military authority, fire, flood, accident, pandemic, strike, or interruption in telecommunications or internet services.
+
+### Spirit of the Rules & Rule Changes
+
+This rulebook is designed to ensure that XPORTAL Series #1 (2026) runs smoothly, competitively, and fairly for all participants. All teams and players are expected to read, understand, and comply with these rules. The organizing staff will be available throughout the event to answer questions or provide clarifications as needed.
+
+---
+
+## Disclaimer
+
+All broadcast rights of the competition belong to the organization. The organization may assign these rights to third parties.
+
+### IMPORTANT
+
+The event organizers reserve the right to amend or modify this rulebook at any time. All changes will be published publicly with updates to this document and will be made available to all participants through the xpseries.com website and the official XPORTAL Series Discord server.
+By registering and participating in the tournament, all players and teams agree to: Abide by all the rules stated in this document.
+Respect the decisions made by tournament officials, which are final.
+Uphold the spirit of fair competition, sportsmanship, and respect for opponents, staff, and the venue.
