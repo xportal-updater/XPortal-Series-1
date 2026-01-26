@@ -51,7 +51,7 @@ No sibling/academy teams owned by the same organization in the same tournament.
 
 ## VRS Seeding
 
-- In line with Valve’s guidelines for Tier 2 events, XPORTAL Series #1 will use VRS rankings to seed teams into the Group Stage. Once registration closes (approximately two weeks before the event). Seeding will be based on the official VRS Rankings released by Valve in March 2026.
+- In line with Valve’s guidelines for Tier 2 events, XPORTAL Series #1 will use VRS rankings to seed teams into the Group Stage. Once registration closes, seeding will be based on the official VRS Rankings released by Valve in March 2026.
 - For teams that do not possess a VRS ranking from March 2, 2026, the secondary seeding criterion will be their official HLTV.org world ranking.
 - The seeding shall be based on the official VRS ranking released by Valve in March, 2026. The registered teams will begin in the Open LAN Group Stage on Day 1 (22 March)  to earn their place in the Play-offs.
 
