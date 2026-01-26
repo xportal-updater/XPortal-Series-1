@@ -68,7 +68,7 @@ By registering, teams agree to abide by all venue rules and tournament policies.
 ## Tournament Structure
 
 - The first stage will consist of four groups of four teams, where the top two teams from each group advance to the playoffs. This stage will follow a Round Robin BO1 format, with all matches to be played as a best-of-one (BO1). All group stage matches will be played on 22nd of March.
-- The playoffs will be played in a double-elimination bracket with 8 teams, in BO3. On 23rd, 24th and 25th March, the quarterfinals, semifinals and grand final will be played.
+- The playoffs will be played in a double-elimination bracket with 8 teams, in BO3. On 23rd, 24th and 25th March, lower bracket, quarterfinals, semifinals and grand final will be played.
 - The playing location of each team will be defined through a draw.
 
 Example: Group A
