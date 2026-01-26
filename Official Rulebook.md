@@ -72,10 +72,11 @@ By registering, teams agree to abide by all venue rules and tournament policies.
 - The playing location of each team will be defined through a draw.
 
 Example: Group A
-Team A: Booth 1
-Team B: Booth 2
-Team C: Booth 1
-Team D: Booth 2
+
+- Team A: Booth 1
+- Team B: Booth 2
+- Team C: Booth 1
+- Team D: Booth 2
 
 ### Equipment
 
