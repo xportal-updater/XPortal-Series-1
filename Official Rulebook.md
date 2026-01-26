@@ -46,6 +46,7 @@ Teams register on the official website (xpseries.com). Payment of 600€ (+VAT) 
 
 Teams may register up to 5 players and 1 coach. The roster is locked fourteen days before the event. Substitutions during the tournament are not allowed. All players must be present on-site, playing remotely is not permitted. After this date teams must retain their registered core (3 out of the 5 initially registered players).
 No sibling/academy teams owned by the same organization in the same tournament.
+
 ---
 
 ## VRS Seeding
