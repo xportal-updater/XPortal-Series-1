@@ -1,17 +1,24 @@
-## For seeding purposes, we will be using the Official Global VRS Ranking posted on the 2nd of March.
+## For seeding purposes, we will use the Official Valve Regional Standings (VRS) published on March 2, 2026.
 
-### Additional Information:
-- ﻿No VRS filter and no VRS invitations. Sign-ups are open to all teams.
-- Seeding will be based on the official VRS Rankings released by Valve in March.
-- The event is open to teams from the Global Region, as defined in Valve's official rules & regulations.
-- The entire tournament, including both the Group Stage (Round Robin Bo1) and the Double Elimination Playoff, will be played on LAN at Tech Park, Prishtina.
-- The Organizer will provide transportation only between hotel or meeting points and the event venue (Hotel–Venue–Hotel).
-- There are no additional compensations for teams or players outside of the prize pool and the form of transport mentioned above.
-- Our event aligns with Valve's Ranked Tier 2 requirements.
+### Additional Information
 
-### While Tier 2 events may use direct VRS invitations, XPortal Series will not issue direct invites. All teams will participate in the Group Stage (Round Robin Bo1).
+Direct invitations will begin from rank #65 in the VRS and will proceed sequentially downward until all 14 invitation slots are filled.  
+The tournament will include 14 Direct VRS Invited teams and 2 teams qualifying through the Local Open Online Qualifier, forming a 16-team Online Closed Qualifier.  
+The Local Open Online Qualifier will be open to teams from the Kosovo region and will qualify two teams to the Online Closed Qualifier.  
+The Online Closed Qualifier will be played online on EU servers using FACEIT Anti-Cheat from 23–26 April 2026.  
+The Main Event Playoffs will take place on LAN at TechPark Prishtina, Kosovo on 23–24 May 2026, featuring the eight teams that qualify from the Closed Qualifier.  
+The tournament takes place in the Kosovo visa region, and teams must be able to legally travel to Kosovo to participate in the LAN stage.  
+The total guaranteed prize pool is $10,000 USD, distributed as follows:  
+- 1st Place – $5,000   
+- 2nd Place – $2,500  
+- 3rd–4th Place – $1,250 each  
 
-### HLTV.org following our application, will determine which stages and matches count towards VRS. Ranking status cannot be guaranteed prior to confirmation.
+### Invited teams participating in the LAN stage will receive:
+- 3 hotel nights
+- Airport transfers
+- Daily local transportation
+- Two meals per day, snacks and drinks
+- Visa assistance support
 
-### Tournament date:
-22-25 of March 2026.
+### Teams qualifying through the Online Closed Qualifier will be responsible for their own flight costs unless otherwise specified by the organizer.
+### The event is organized by XPortal Esports (GG Esports) and follows Valve Tier-2 VRS Ranked Event requirements. Final VRS ranking eligibility will be confirmed by Valve and HLTV.
