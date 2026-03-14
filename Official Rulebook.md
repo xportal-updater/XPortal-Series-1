@@ -554,7 +554,7 @@ Used for:
 - disconnects
 - server lag
 
-Maximum duration typically **10 minutes**.
+Maximum duration typically **5 minutes**.
 
 ---
 
