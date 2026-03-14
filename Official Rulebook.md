@@ -330,11 +330,12 @@ Result per group:
 | Group Winners | 1–4 |
 | Group Runners-Up | 5–8 |
 
-Bracket:  
-1 vs 8  
-2 vs 7  
-3 vs 6  
-4 vs 5  
+| Bracket | 
+| ---- |
+| 1 vs 8 |
+| 2 vs 7 |  
+| 3 vs 6 |
+| 4 vs 5 |  
 
 
 ---
