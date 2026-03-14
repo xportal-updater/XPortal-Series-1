@@ -343,7 +343,7 @@ Bracket:
 
 ## Local ONLINE Qualifier
 
-Location: **FESK Esports HUB, Prishtina**
+Location: **Online**
 
 - Max **256 teams**
 - Top **2 teams qualify**
@@ -408,7 +408,7 @@ A team is eliminated after **one match loss**.
 |------|------|------|
 | 1st | $5,000 | 50% |
 | 2nd | $2,500 | 25% |
-| 3rd–4th | $1,200 | 12.5% |
+| 3rd–4th | $1,250 | 12.5% |
 
 Prize payments:
 
