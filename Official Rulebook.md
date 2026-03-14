@@ -469,7 +469,7 @@ Overtime is played if score reaches **12–12**.
 
 | Setting | Value |
 |------|------|
-| Format | MR3 |
+| Format | MR6 |
 | Start Money | $10,000 |
 
 Sides swap after **3 rounds**.
