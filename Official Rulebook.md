@@ -480,15 +480,7 @@ Overtime repeats until a winner is determined.
 
 # Map Pool
 
-Official **Active Duty Pool (May 2026)**:
-
-- Dust2
-- Mirage
-- Inferno
-- Nuke
-- Overpass
-- Ancient
-- Anubis
+Official **Active Duty Pool (May 2026)**
 
 ---
 
