@@ -146,7 +146,7 @@ Requirements:
 - Valid **CS2 accounts**
 - **No VAC bans**
 - Minimum **16 years old**
-- Players under **16 may require parental consent**
+- Players under **18 may require parental consent**
 
 ---
 
